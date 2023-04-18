@@ -1,0 +1,36 @@
+
+What are C++ and its features?
+Understanding and writing our first Hello World program in C++.
+Variables, Datatypes.
+How to take input from the user?
+Operators like: Arithmetic Operators, Logical Operators, Relational Operators, Other operators.
+Selection Statement.
+Then you have understood the basic units of a program well. It's time to take a step forward.
+
+Loops.
+Jump Statements.
+Comments.
+Arrays.
+Strings.
+Now time to start functions and play with pointers.
+
+Functions.
+Pointers.
+solve problems to check your understanding. don’t make haste and understand them in depth.
+
+Classes and Objects.
+keyword, static keyword, Functions.
+Constructors.
+Destructors.
+Concepts of Object-Oriented Programming(OOP).Abstraction, Encapsulation, Inheritance, Polymorphism.
+Data Hiding.
+practice on these topics.
+
+If you are not familiar With programming itself. The following tutorial or online course will teach you the most important topics.
+
+Coursera:This course truly highlights the differences between these two languages and shows you how to make the most out of C++.
+coding Ninjas: coding ninjas helped the students to become an expert. Learn one of the most popular and powerful languages, C++ and become eligible to apply for the position At Google, Facebook, Amazon etc. In coding ninjas, a new batch starts within a month or mid-month.
+Plural sight: if you want to start from the basics of C++ and learn it from the ground up, PluralSight has just the tutorial for you.
+But in my opinion, go for the coding ninjas. The best part about the course is the complete focus on problem-solving, which makes you comfortable with coding. The content of the course includes topics right from the foundation level to advance which makes it easy And the best part of it is tech support it was amazing and I love it.
+
+Always remember: No one can become perfect in just one day. Only Practice makes a man perfect.
